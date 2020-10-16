@@ -1,3 +1,4 @@
+[![noswpatv3](http://zoobab.wdfiles.com/local--files/start/noupcv3.jpg)](https://ffii.org/donate-now-to-save-europe-from-software-patents-says-ffii/)
 > ## BREAKING NEWS: Microsoft GitHub [just censored this project](https://twitter.com/UpEnd_org/status/1004292351643275264) from its Trending page
 
 We were the #1 project and the #4 "developer" before they deleted us. [Maybe it was too embarrassing?](https://twitter.com/UpEnd_org/status/1004308027078578176)
